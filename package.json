@@ -1,0 +1,10 @@
+{
+  "name": "sleuth",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
